@@ -61,7 +61,7 @@ if (width > height) {
   w_ratio <- 1
   h_ratio <- height / width
 } else {
-  h_ration <- 1
+  h_ratio <- 1
   w_ratio <- width / height
 }
 
